@@ -9,7 +9,5 @@ data/vhosts
 data/nginx/certs/*
 !data/nginx/certs/WINDOWS.md
 
-data/nginx/snippets
-
 data/nginx/enabled/*
 !data/nginx/enabled/default.conf
