@@ -67,6 +67,7 @@ services:
     environment:
       - MONGO_INITDB_ROOT_USERNAME=aquino
       - MONGO_INITDB_ROOT_PASSWORD=pass1234
+    restart: unless-stopped
 
   data:
     image: alpine:latest
