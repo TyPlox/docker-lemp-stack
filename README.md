@@ -6,6 +6,7 @@
 - Nginx
 - PHP (7.4, 8.0 & 8.1) and Composer
 - MySQL
+- MongoDB
 - PhpMyAdmin
 - Everything in docker containers
 

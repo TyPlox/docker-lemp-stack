@@ -5,6 +5,7 @@
 
 data/db
 data/vhosts
+data/mongo
 
 data/nginx/certs/*
 !data/nginx/certs/WINDOWS.md

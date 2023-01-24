@@ -1,4 +1,4 @@
-FROM php:8.0.22-fpm-alpine
+FROM php:8.0.27-fpm-alpine
 
 ######## Composer.phar ########
 RUN curl -s https://getcomposer.org/installer | php \
